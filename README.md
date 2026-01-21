@@ -9,6 +9,7 @@ This repository highlights my end-to-end data analytics projects, where I apply 
 ### 🧑‍💼 Work Experience
 
 Accounts Assistant
+
 K.C.J Lingeries Pvt. Ltd. (Oct 2021 – Present)
 
 Perform Excel-based data analysis and reporting to support daily business operations.
