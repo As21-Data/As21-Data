@@ -46,4 +46,12 @@ Data Analysis using Python – Data cleaning, EDA, and visualization
 
 Actively seeking entry-level / junior Data Analyst opportunities, where I can apply my analytical skills to solve business problems and grow as a data professional.
 
-📍 Preferred Location: Gurugram | Delhi | Noida
+## 📫 Connect With Me
+
+- 📧 Email:   asharma931550@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/abhay-sharma-80286921b  
+- 💻 GitHub: You're already here 🙂
+
+---
+
+⭐ *If you like my work, feel free to explore my repositories and star them!*
