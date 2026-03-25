@@ -8,7 +8,7 @@ This repository highlights my end-to-end data analytics projects, where I apply 
 
 ### 🧑‍💼 Work Experience
 
-Accounts Assistant
+MIS Executive
 
 K.C.J Lingeries Pvt. Ltd. (Oct 2021 – Present)
 
